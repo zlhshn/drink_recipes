@@ -1,4 +1,4 @@
-# icecek_tarifleri
+# drink_recipe
 ## Project Aim
 Create responsive grid page 
 ### Description
